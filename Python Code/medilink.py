@@ -7,8 +7,8 @@ import time
 import requests
 
 # ── TELEGRAM CONFIG ────────────────────────────
-TG_TOKEN = '8613841212:AAHZm7njBR6a49Fk9zsxOHhsUlFOhhUc-PQ'
-TG_CHAT_ID = '5057900072'
+TG_TOKEN = ''
+TG_CHAT_ID = ''
 
 
 def send_telegram(message):
